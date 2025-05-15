@@ -4,7 +4,7 @@
 
 **1. Nome do Repositório**
 
-Nome Sugerido: `amtek-dedetizacao-rj`
+`amtek-dedetizacao-rj`
 
 **2. Descrição do Projeto**
 
