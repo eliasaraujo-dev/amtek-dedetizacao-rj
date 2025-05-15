@@ -4,7 +4,7 @@
 
 **1. Nome do Repositório**
 
-`amtek-dedetizacao-rj`
+`landing-page-amtek-dedetizacao`
 
 **2. Descrição do Projeto**
 
