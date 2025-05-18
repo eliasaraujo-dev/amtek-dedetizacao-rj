@@ -16,7 +16,6 @@ Este projeto consiste no desenvolvimento de uma landing page completa para a emp
 * **CSS:** Estilização geral, incluindo Tailwind CSS para agilidade no desenvolvimento.
 * **JavaScript:** Interatividade da página, incluindo o carrossel de depoimentos e o envio do formulário de contato.
 * **jQuery:** Biblioteca JavaScript para manipulação do DOM.
-* **Slick Carousel:** Plugin jQuery para criação do carrossel de depoimentos.
 * **Bootstrap:** Framework CSS para estilização e componentes da página.
 
 **4. Estrutura do Projeto**
